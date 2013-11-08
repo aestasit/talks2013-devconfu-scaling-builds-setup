@@ -1,4 +1,3 @@
-talks2013-devconfu-scaling-builds-setup
-=======================================
+# Scaling Software Builds with Jenkins
 
-Jenkins setup for DevConFu 2013 talk "Scaling Software Builds in the Cloud with Jenkins"  
+Jenkins for demonstration made during presentation "Scaling Software Builds with Jenkins" given at DevConFu, 2013 in Jurmala, Latvia by Andrey Adamovich.
