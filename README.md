@@ -13,9 +13,11 @@ You can use either `prepare.bat` or `prepare.sh` (depending on your *OS*), or ju
 
 After that you can use `server.bat` or `server.sh` to launch your local **Jenkins** master. It will take few minutes to initialize and eventually will let you access <http://localhost:1377>.
 
-In order to configure Jenkins EC2 Amazon AWS credentials you will need to follow instructions given during presentation: 
+In order to configure Jenkins EC2 plugin you will need to follow instructions given during presentation: 
 
+![AWS](https://raw.github.com/aestasit/talks2013-devconfu-scaling-builds-setup/master/images/040_JENKINS_EC2_SETTINGS.png)
 
+![AMIs](https://raw.github.com/aestasit/talks2013-devconfu-scaling-builds-setup/master/images/040_JENKINS_EC2_AMI.png)
 
 These instructions as well as some more details are also available in presentation slides: <https://github.com/aestasit/talks2013-devconfu-scaling-builds-slides>.
 
