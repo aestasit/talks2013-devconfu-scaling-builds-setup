@@ -21,3 +21,7 @@ In order to configure **Jenkins** **EC2** plugin, you will need to follow instru
 
 These instructions as well as some more details are also available in the presentation slides: <https://github.com/aestasit/talks2013-devconfu-scaling-builds-slides>.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aestasit/talks2013-devconfu-scaling-builds-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
